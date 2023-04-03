@@ -1,0 +1,6 @@
+rootProject.name = 'Guli-Mall'
+include 'gulimall-coupon'
+include 'gulimall-order'
+include 'gulimall-product'
+include 'gulimall-storage'
+include 'gulimall-user'

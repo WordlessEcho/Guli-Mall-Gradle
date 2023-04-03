@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/gulimall-coupon" />
+            <option value="$PROJECT_DIR$/gulimall-order" />
+            <option value="$PROJECT_DIR$/gulimall-product" />
+            <option value="$PROJECT_DIR$/gulimall-storage" />
+            <option value="$PROJECT_DIR$/gulimall-user" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gulimall-coupon" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/gulimall-coupon" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gulimall-order" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/gulimall-order" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gulimall-product" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/gulimall-product" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gulimall-storage" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/gulimall-storage" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gulimall-user" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/gulimall-user" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
